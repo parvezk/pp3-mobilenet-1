@@ -1,4 +1,4 @@
 .DS_Store
-local_server/node_modules/
+local-server/node_modules/
 internal/
 static/tfjs-models/
