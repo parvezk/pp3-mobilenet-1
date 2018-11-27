@@ -1,1 +1,1 @@
-Image classification web app with Tensorflow.js, Keras and Node.js
+Deep learning web application for the image classification task
